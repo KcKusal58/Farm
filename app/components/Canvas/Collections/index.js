@@ -77,7 +77,7 @@ export default class {
             const { src } = this.transition.mesh.program.uniforms.tMap.value.image
             const texture = window.TEXTURES[src]
             const media = this.medias.find(media => media.texture === texture)
-            const scroll = -media.bounds.left - media.bounds.width / 2 + window.innerHeight / 2
+            const scroll = -media.bounds.left - media.bounds.width / 2 + window.innerWidth / 2
 
             this.update()
 
