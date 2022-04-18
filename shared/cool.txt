@@ -1,0 +1,100 @@
+//- link(rel="preconnect" href="https://www.google-analytics.com")
+  //- link(rel="preconnect" href="https://fonts.gstatic.com")
+
+  //- link(rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap")
+  //- link(rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap")
+
+  //- noscript
+  //-   link(rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap")
+
+//.replace(/<p>/g, '<p data-animation="paragraph">')
+ &:nth-child(1) {
+        height: 41.8rem;
+        left: 22.4rem;
+        top: 24.4rem;
+        width: 27.8rem;
+    }
+    &:nth-child(2) {
+        height: 41.8rem;
+        left: 66rem;
+        top: 26.4rem;
+        width: 27.8rem;
+    }
+    &:nth-child(3) {
+        height: 41.8rem;
+        left: 116.3rem;
+        top: 17.7rem;
+        width: 27.8rem;
+    }
+    &:nth-child(4) {
+        height: 60.8rem;
+        left: 179.1rem;
+        top: 19.7rem;
+        width: 40.6rem;
+    }
+    &:nth-child(5) {
+        height: 41.8rem;
+        left: 220rem;
+        top: 17.7rem;
+        width: 27.8rem;
+    }
+    &:nth-child(6) {
+        height: 52.3rem;
+        left: 12.4rem;
+        top: 74.1rem;
+        width: 37.5rem;
+    }
+    &:nth-child(7) {
+        height: 60.8rem;
+        left: 58.7rem;
+        top: 71.2rem;
+        width: 40.6rem;
+    }
+    &:nth-child(8) {
+        height: 58.2rem;
+        left: 112.5rem;
+        top: 69.7rem;
+        width: 39.7rem;
+    }
+    &:nth-child(9) {
+        height: 41.8rem;
+        left: 182rem;
+        top: 68.8rem;
+        width: 27.8rem;
+    }
+    &:nth-child(10) {
+        height: 58.2rem;
+        left: 215.1rem;
+        top: 64.7rem;
+        width: 39.7rem;
+    }
+    &:nth-child(11) {
+        height: 41.8rem;
+        left: 15.1r em;
+        top: 132.9rem;
+        width: 27.8rem;
+    }
+    &:nth-child(12) {
+        height: 41.8rem;
+        left: 61.1rem;
+        top: 134.4rem;
+        width: 27.8rem;
+    }
+    &:nth-child(13) {
+        height: 41.8rem;
+        left: 116.7rem;
+        top: 132.4rem;
+        width: 27.8rem;
+    }
+    &:nth-child(14) {
+        height: 41.8rem;
+        left: 171.7rem;
+        top: 113.9rem;
+        width: 27.8rem;
+    }
+    &:nth-child(15) {
+        height: 41.8rem;
+        left: 215.3rem;
+        top: 128.6rem;
+        width: 27.8rem;
+    }
